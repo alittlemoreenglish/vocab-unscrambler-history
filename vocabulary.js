@@ -100,5 +100,5 @@ export const vocabulary = [
   "siege",
   "sovereign",
   "state",
-  "suffrage",
- 
+  "suffrage"
+];
